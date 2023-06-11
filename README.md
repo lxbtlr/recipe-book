@@ -11,7 +11,7 @@ This is my recipe book. Feel free to make a pull request.
 - *3 large garlic cloves.*
 - *200 g whole-wheat flour.*
 - *Pinch of cumin.*
-
+### Special Equipment
 ### Procedure
 #### Prep
 *Cutting, soaking, etc. all go here. If it can reasonably be done ahead of time,
